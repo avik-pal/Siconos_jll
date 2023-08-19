@@ -1,0 +1,249 @@
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "2b50438e94c01def5933d3b1c33708e92c07e38b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "7631c1826c462b8ed0fdd11eb2a3850ffce3ace6a6cfe7bbf525b29f14ea7670"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "111d4d0dc7847271bfebd322695391fb4907d582"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "b47dcdb749ef99decc1b1151f329f1f537130c32ae162fa44b9ab1893b5cd342"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "cf471d631787185256532c47b849eb6e83ad0092"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "40902c6b7d6f21a7f69fdf9c7911105ed16033b3982dfb511048c5312502166f"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "0e16562e3323a048ee4fa53566b55701dec83833"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "b60e5e5b87d9b6459e680e92f903fc9b801a5697d63b80e4ef4d1722c67af51b"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "089a72313f6c798fc845601327047b90aec4d8f8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "25eaf0570a3ab09f0e6e46bdb95472f63f726e99c8e207860337954f768ffa91"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "317baa36c4f30c4730de7a71577412f637826205"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "26825cd1abaf91281883e1ad4a49caa115ea5040600b71c85d639838370bd687"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7e67b6e737aaeaf3686aac1a0f60fcdd3f413ece"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "bdac8be9dc839271aac85a72b2502d98fea893d2fd64230941e23c87ccd96797"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ad5d2de587e033897ac5bddf36224d609ac8f747"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "fd223f441d61321fa8e1092326e5d0450b2a89cd0df27a950390e050d1c8f38a"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b677d0e05c2db4ab827192cd8fa9e2cc9795b7ef"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "427799295fb5ef3cd9152ea540e10c0f55f49ba3a08c88c5445ffbf37538091f"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "87ca4dd40ad7102f29ace1a8dd620a15978c5992"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "c6784b633f0ed3448648733d4d946316d6b800a57fe3b7b90b255eef26345a5d"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "i686"
+git-tree-sha1 = "b412bf72ff1d4b09c4d8cb046aa3a1c94e87969f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "e689611782e220982f4a8184f82005df96db6de14a3375c328fa6b28883cd89e"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "i686"
+git-tree-sha1 = "b8a65b06c23e5be7a66091adf2b0e44b023fcfc0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "a29cba85880a4512ab1e91eaac5ade6dfd255ac147c49dac51dc589ed018457f"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "i686"
+git-tree-sha1 = "2024bdffe217565e87117b07fbd73dc36d8777d1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "d5bc6990995f6de6badd296d13fca53ec97978f61e35194e4e7b65c643b83375"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "powerpc64le"
+git-tree-sha1 = "fd9b4debdc99378376edafe1ddd83eab7ea7d359"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "1a43cc76a7964f1855ab305ba9d8991264048478a5a6ed343b77c677a5824098"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "powerpc64le"
+git-tree-sha1 = "4bf48fadd23709b3251b2fc2ee953c0a4000a5e8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "fed5938b5d2da727c7151041523cc06ff12aeb36ac4b9b791bb543e78b054ad9"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "powerpc64le"
+git-tree-sha1 = "f9d9c51e9feb494f2a14bce325efb3cf1d5b7804"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "2a3d1a0abd1e7781e12e153283963e0cb1df8fbc358de99a65dc1297c35abf6c"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "b466e3806ae2868d71154cea7f042d4fd0384524"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "ca7c3cd555b2f7ef6fe866f60a82f7875c9762c162b3dcf86586accca7fe300c"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "98bc2744fc2fedf48b49c918d010b8286de1f5e3"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "4a96f3938868c3ff13906be191d0508fe2cf753278d70cc2b8553b216b519aaa"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "83b72a3e7116b6273f1c584ed9cad45cb6240ff6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "a4ed3ce8c89eef3453dc1fd06563fea1b5e2e3c54c030e701912043cc2b644b3"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "8d3422b3e145fda5e99a15887b8ea9692b4c8119"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "fd1383f8896be08356b77cdb08d5a1732f8978dc1b53f1d90ab05ae525f8f325"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "c8fc305d07c99f605013bc3a9cab224588fd5dfd"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "9bbf8f770b0fc86a20f18747574ef36f06794ce1929374cb7631942d5acc5c7b"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "73d0e6eee513273041a2f1069e7e38b3e9d9e7e4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "ec7c6ae1befc08f3bc6dab987135a61b1464b4f367ceeb4e24d274c80eca1331"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "4fee4789080a25df80a6d30791f55f17ea4d06dd"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Siconos.download]]
+    sha256 = "34f62d879f73cc6572c74c0d91aaad40b4e9776cbfe0e0c9cb84451968735244"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "87cf279fc7250e8a651bb4e734a34e9787539fc7"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Siconos.download]]
+    sha256 = "283f7480c935150d1ae4e7a9621fa08e0c53f9ad877365453a756c647934f356"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "2d3eb22140f0c67e6188bba26ffea3d1278a3cf8"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Siconos.download]]
+    sha256 = "2ab0d0db5df561e77c17ce7656bae60f1ce1c3ac92e3aa4b5cea61b9a50f3046"
+    url = "https://github.com/avik-pal/Siconos_jll/releases/download/Siconos-v0.1.0+0/Siconos.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
